@@ -13,7 +13,7 @@ const App: React.FC = () => {
           </p>
           <a
             className="bg-indigo-600 inline-block cursor-pointer text-white py-2 px-4 rounded hover:bg-indigo-700"
-            href="https://github.com/aibiansari"
+            href="https://github.com/aibiansari/vite-react-app-boilerplate"
             target="_blank"
           >
             Get Started
