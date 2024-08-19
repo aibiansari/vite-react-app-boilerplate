@@ -1,12 +1,13 @@
 # Vite React App Boilerplate
 
-A minimalist Vite React app boilerplate with Tailwind CSS for styling, Shadcn components & React icons Seyup. This template is designed to help you kickstart your project with a clean and modern starting point.
+A minimalist Vite React app boilerplate with TypeScript, Tailwind CSS for styling, Shadcn components & React icons Setup. This template is designed to help you kickstart your project with a clean and modern starting point.
 
 
 ## Features
 
 - __Dark-themed__ design with a sleek and professional appearance.
 - __Tailwind CSS__ for easy and flexible styling.
+- __TypeScript__ for type checking and improved developer experience.
 - __Shadcn__ components integrated for UI elements.
 - __React Icons__ for scalable vector icons.
 - __Simple layout__ with centered content and a footer.
