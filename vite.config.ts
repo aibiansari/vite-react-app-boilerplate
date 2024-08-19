@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/your-repo-name/", //here goes your repository names
+  base: "/vite-react-app-boilerplate/", //here goes your own repository names
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
